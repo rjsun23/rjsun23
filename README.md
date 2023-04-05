@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! I'm still setting up my Github.
 
 <!--
 **rjsun23/rjsun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
